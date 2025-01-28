@@ -627,7 +627,7 @@ Config.ImpoundTimeOptions = {
 }
 Config.ImpoundLocations = {
   ['Impound A'] = {
-    coords = vector3(410.8, -1626.26, 29.29),
+    coords = vec4(409.47, -1622.97, 29.29, 234.11),
     spawn = vector4(408.44, -1630.88, 29.29, 136.88),
     distance = 15,
     type = 'car',
